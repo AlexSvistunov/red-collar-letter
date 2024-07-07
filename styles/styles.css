@@ -108,7 +108,7 @@ img {
   position: absolute;
   width: 60px;
   height: 24px;
-  background-image: url('/assets/images/icons/arrow.png');
+  background-image: url('../assets/images/icons/arrow.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -179,7 +179,7 @@ img {
 
 .resume {
   padding: 50px 28px;
-  background-image: url(/assets/images/bg.png);
+  background-image: url('../assets/images/bg.png');
   background-size: 100% 97%;
   background-repeat: no-repeat;
   background-position: top;
@@ -307,7 +307,7 @@ img {
  }
 
  .resume {
-  background-image: url('/assets/images/bg-phone.png');
+  background-image: url('..//assets/images/bg-phone.png');
  }
 
 
